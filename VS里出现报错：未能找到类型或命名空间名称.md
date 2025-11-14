@@ -1,0 +1,11 @@
+#C＃ 
+右击解决方法
+![](attachments/Pasted%20image%2020251031170701.png)
+进入nuget管理页面
+先点小齿轮确认DL程序包源有没有被勾选
+![](attachments/Pasted%20image%2020251031170755.png)
+再看看有没有还原按钮，点击还原从dl源中下载dl的nuget
+![](attachments/Pasted%20image%2020251031170943.png)
+还原了之后vs不一定都加载了，要去解决方法的引用里点一下报了错的引用刷新一下
+![](attachments/Pasted%20image%2020251031171128.png)
+点一下感叹号就没了，这个时候就正常了。

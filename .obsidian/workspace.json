@@ -1,0 +1,616 @@
+{
+  "main": {
+    "id": "e556cb985eed4e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d206fa5abfc2cf11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4043dd6f0ffb079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政府采购账户审核.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "政府采购账户审核"
+            }
+          },
+          {
+            "id": "643d7f17a1ad4c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "德付通自动登录报错.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "德付通自动登录报错"
+            }
+          },
+          {
+            "id": "6ab80f600ba52a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "政采晚付款申请.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "政采晚付款申请"
+            }
+          },
+          {
+            "id": "9120f95d4905f86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VS里出现报错：未能找到类型或命名空间名称.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VS里出现报错：未能找到类型或命名空间名称"
+            }
+          },
+          {
+            "id": "aa61662b628cf485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前台快递费用不对.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "前台快递费用不对"
+            }
+          },
+          {
+            "id": "a05b61f990163289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "财务要求开一下行程单（权限）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "财务要求开一下行程单（权限）"
+            }
+          },
+          {
+            "id": "b101aa29f98a67e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实现的改进/团队电子行程单开具.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "团队电子行程单开具"
+            }
+          },
+          {
+            "id": "6881528b362d47c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "财务要求开一下行程单（权限）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "财务要求开一下行程单（权限）"
+            }
+          },
+          {
+            "id": "2feb019b2b3c65a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UWing申请.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UWing申请"
+            }
+          },
+          {
+            "id": "ae7b6558a7a4336e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "bf427b4769c90e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "财务要求开一下行程单（权限）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "财务要求开一下行程单（权限）"
+            }
+          },
+          {
+            "id": "57dc85af2eccb245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "财务要求开一下行程单（权限）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "财务要求开一下行程单（权限）"
+            }
+          },
+          {
+            "id": "1797f1598ac23bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "财务要求开一下行程单（权限）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "财务要求开一下行程单（权限）"
+            }
+          },
+          {
+            "id": "c7bc62226d6a1d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "财务要求开一下行程单（权限）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "财务要求开一下行程单（权限）"
+            }
+          },
+          {
+            "id": "6bbe28e834b6bb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "如果要改Entity(只有改Entity需要这样操作).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如果要改Entity(只有改Entity需要这样操作)"
+            }
+          },
+          {
+            "id": "0c4a71826e42e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UWing申请.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UWing申请"
+            }
+          },
+          {
+            "id": "2b023f64f8062f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "退票的status.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "退票的status"
+            }
+          },
+          {
+            "id": "ec1a27d2866b13ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
+          },
+          {
+            "id": "9767d44d18949274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "给AI项目小组加SVN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "给AI项目小组加SVN"
+            }
+          },
+          {
+            "id": "af082756c4e1e1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "远程管理工具DLRemoteManager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "远程管理工具DLRemoteManager"
+            }
+          },
+          {
+            "id": "cddf24acbd55ada8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子发票/发票系统问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "发票系统问题"
+            }
+          },
+          {
+            "id": "be20aa216be1a2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "账号密码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "账号密码"
+            }
+          },
+          {
+            "id": "c15237e1f86f7a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "指令"
+            }
+          },
+          {
+            "id": "aa4e37ce9ff11471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "调试moblieservice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "调试moblieservice"
+            }
+          },
+          {
+            "id": "45e6456bdf4e73fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "还原蓝单子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "还原蓝单子"
+            }
+          },
+          {
+            "id": "b8cf060ae0eda53b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "提交显示断票.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "提交显示断票"
+            }
+          },
+          {
+            "id": "719c84d2e0f2e528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IBE透传.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IBE透传"
+            }
+          },
+          {
+            "id": "caadeee8c33d287f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "后台Everything的http服务开启及文件下载.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "后台Everything的http服务开启及文件下载"
+            }
+          }
+        ],
+        "currentTab": 20
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92d8e3a660f839ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "473a9a5374403b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d9cb0fc8a09e08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "116db34a75e41073",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "远程",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e53a89eedd4280a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c95f65894d81f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e85581acf6aab9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5075800b33c3417f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IBE透传.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "IBE透传 的反向链接列表"
+            }
+          },
+          {
+            "id": "535c60de76c613c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IBE透传.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "IBE透传 的出链列表"
+            }
+          },
+          {
+            "id": "8aa5bfd10ee6d734",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "854f85edc6748a36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前台快递费用不对.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "前台快递费用不对 的大纲"
+            }
+          },
+          {
+            "id": "ec733d4be2cc441f",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          },
+          {
+            "id": "774c14c40f78efd1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cddf24acbd55ada8",
+  "lastOpenFiles": [
+    "未命名.md",
+    "电子发票",
+    "电子发票/发票系统问题.md",
+    "发票系统问题.md",
+    "远程管理工具DLRemoteManager.md",
+    "attachments/Pasted image 20251113093601.png",
+    "attachments/Pasted image 20251113093539.png",
+    "attachments/Pasted image 20251113093427.png",
+    "给AI项目小组加SVN.md",
+    "attachments/Pasted image 20251113093123.png",
+    "attachments/Pasted image 20251113092958.png",
+    "attachments/Pasted image 20251113092919.png",
+    "UWing申请.md",
+    "退票的status.md",
+    "账号密码.md",
+    "钱包扣除.md",
+    "attachments/Pasted image 20251112150919.png",
+    "attachments/Pasted image 20251112150822.png",
+    "如果要改Entity(只有改Entity需要这样操作).md",
+    "attachments/Pasted image 20251112110500.png",
+    "attachments/Pasted image 20251112110433.png",
+    "财务要求开一下行程单（权限）.md",
+    "BSP账单无法读取.md",
+    "代理商功能权限.md",
+    "国内政采报价.md",
+    "提交显示断票.md",
+    "看票是不是我们开的.md",
+    "加行程单库位.md",
+    "政府采购账户审核.md",
+    "政采晚付款申请.md",
+    "ETDZ-未授权使用此命令.md",
+    "还原蓝单子.md",
+    "漏单帮忙补一下.md",
+    "实现的改进/团队电子行程单开具.md",
+    "前台快递费用不对.md",
+    "VS里出现报错：未能找到类型或命名空间名称.md",
+    "实现的改进",
+    "未命名.canvas",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 3.base",
+    "未命名 4.base",
+    "未命名 2.base",
+    "配置项",
+    "attachments",
+    "新建文件夹"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "conversations": [
+    {
+      "id": "1761901987506",
+      "title": "New Conversation",
+      "messages": [],
+      "createdAt": 1761901987506,
+      "updatedAt": 1761901987506,
+      "model": {
+        "label": "Gemini 2.0 Flash",
+        "value": "gemini-2.0-flash-001"
+      }
+    }
+  ],
+  "activeConversationId": "1761901987506"
+}
