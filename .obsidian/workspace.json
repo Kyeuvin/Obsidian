@@ -301,12 +301,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "财务要求开一下行程单（权限）.md",
+                "file": "Dify服务坏了，且启动时报错5003端口被占用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "财务要求开一下行程单（权限）"
+              "title": "Dify服务坏了，且启动时报错5003端口被占用"
             }
           },
           {
@@ -579,24 +579,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ac173b4f89c4cc",
+  "active": "44d9cb0fc8a09e08",
   "lastOpenFiles": [
+    "未命名.md",
+    "远程管理工具DLRemoteManager.md",
+    "给AI项目小组加SVN.md",
+    "退票的status.md",
+    "财务要求开一下行程单（权限）.md",
     "Dify服务坏了，且启动时报错5003端口被占用.md",
     "BSP账单无法读取.md",
     "电子发票/发票系统问题.md",
-    "未命名.md",
     "电子发票",
     "发票系统问题.md",
-    "远程管理工具DLRemoteManager.md",
     "attachments/Pasted image 20251113093601.png",
     "attachments/Pasted image 20251113093539.png",
     "attachments/Pasted image 20251113093427.png",
-    "给AI项目小组加SVN.md",
     "attachments/Pasted image 20251113093123.png",
     "attachments/Pasted image 20251113092958.png",
     "attachments/Pasted image 20251113092919.png",
     "UWing申请.md",
-    "退票的status.md",
     "账号密码.md",
     "钱包扣除.md",
     "attachments/Pasted image 20251112150919.png",
@@ -604,7 +605,6 @@
     "如果要改Entity(只有改Entity需要这样操作).md",
     "attachments/Pasted image 20251112110500.png",
     "attachments/Pasted image 20251112110433.png",
-    "财务要求开一下行程单（权限）.md",
     "代理商功能权限.md",
     "国内政采报价.md",
     "提交显示断票.md",
