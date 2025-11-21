@@ -315,12 +315,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "销售系统商品号出现XXXXXX.md",
+                "file": "给AI项目小组加SVN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "销售系统商品号出现XXXXXX"
+              "title": "给AI项目小组加SVN"
             }
           },
           {
@@ -593,11 +593,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44d9cb0fc8a09e08",
+  "active": "9343ac6d34b48f9b",
   "lastOpenFiles": [
+    "销售系统商品号出现XXXXXX.md",
     "attachments/Pasted image 20251121112951.png",
     "Dify服务坏了，且启动时报错5003端口被占用.md",
-    "销售系统商品号出现XXXXXX.md",
     "未命名.md",
     "远程管理工具DLRemoteManager.md",
     "给AI项目小组加SVN.md",
@@ -620,7 +620,6 @@
     "attachments/Pasted image 20251112150822.png",
     "如果要改Entity(只有改Entity需要这样操作).md",
     "attachments/Pasted image 20251112110500.png",
-    "attachments/Pasted image 20251112110433.png",
     "代理商功能权限.md",
     "国内政采报价.md",
     "提交显示断票.md",
