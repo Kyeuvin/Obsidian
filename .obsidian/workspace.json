@@ -489,8 +489,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -608,7 +607,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "116db34a75e41073",
+  "active": "7fd94adc61355d8a",
   "lastOpenFiles": [
     "钱包扣除.md",
     "未命名.md",
