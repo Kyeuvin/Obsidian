@@ -242,29 +242,17 @@
             }
           },
           {
-            "id": "ec1a27d2866b13ff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
-            }
-          },
-          {
             "id": "9767d44d18949274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "给AI项目小组加SVN.md",
+                "file": "添加新的ssr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "给AI项目小组加SVN"
+              "title": "添加新的ssr"
             }
           },
           {
@@ -436,7 +424,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -607,15 +595,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fd94adc61355d8a",
+  "active": "9767d44d18949274",
   "lastOpenFiles": [
-    "attachments/Pasted image 20251124162319.png",
-    "attachments/Pasted image 20251124162116.png",
+    "给AI项目小组加SVN.md",
     "钱包扣除.md",
     "添加新的ssr.md",
+    "attachments/Pasted image 20251124162319.png",
+    "attachments/Pasted image 20251124162116.png",
     "退票的status.md",
     "如果要改Entity(只有改Entity需要这样操作).md",
-    "给AI项目小组加SVN.md",
     "远程管理工具DLRemoteManager.md",
     "Dify服务坏了，且启动时报错5003端口被占用.md",
     "销售系统商品号出现XXXXXX.md",
@@ -634,7 +622,6 @@
     "UWing申请.md",
     "账号密码.md",
     "attachments/Pasted image 20251112150919.png",
-    "attachments/Pasted image 20251112150822.png",
     "代理商功能权限.md",
     "国内政采报价.md",
     "提交显示断票.md",
