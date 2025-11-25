@@ -261,12 +261,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国际退票行程单 未回收.md",
+                "file": "添加新的ssr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "国际退票行程单 未回收"
+              "title": "添加新的ssr"
             }
           },
           {
@@ -611,6 +611,7 @@
   },
   "active": "4a6a46ad6eaef18e",
   "lastOpenFiles": [
+    "国际退票行程单 未回收.md",
     "attachments/Pasted image 20251125175913.png",
     "attachments/Pasted image 20251125175810.png",
     "attachments/Pasted image 20251125175725.png",
@@ -621,7 +622,6 @@
     "attachments/Pasted image 20251125175356.png",
     "attachments/Pasted image 20251125174854.png",
     "销售系统商品号出现XXXXXX.md",
-    "国际退票行程单 未回收.md",
     "Dify服务坏了，且启动时报错5003端口被占用.md",
     "远程管理工具DLRemoteManager.md",
     "给AI项目小组加SVN.md",
@@ -631,7 +631,6 @@
     "添加新的ssr.md",
     "钱包扣除.md",
     "attachments/Pasted image 20251124162319.png",
-    "attachments/Pasted image 20251124162116.png",
     "财务要求开一下行程单（权限）.md",
     "电子发票/发票系统问题.md",
     "电子发票",
