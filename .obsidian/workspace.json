@@ -289,12 +289,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发票问题.md",
+                "file": "给AI项目小组加SVN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "发票问题"
+              "title": "给AI项目小组加SVN"
             }
           },
           {
@@ -639,8 +639,8 @@
   },
   "active": "2237d04370427647",
   "lastOpenFiles": [
-    "请确认附件过多。.md",
     "发票问题.md",
+    "请确认附件过多。.md",
     "attachments/企业微信截图_17645816496227.png",
     "加行程单库位.md",
     "添加新的ssr.md",
