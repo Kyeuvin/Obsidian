@@ -289,12 +289,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "给AI项目小组加SVN.md",
+                "file": "后台Everything的http服务开启及文件下载.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "给AI项目小组加SVN"
+              "title": "后台Everything的http服务开启及文件下载"
             }
           },
           {
@@ -498,7 +498,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ever",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -519,7 +519,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -639,6 +640,7 @@
   },
   "active": "2237d04370427647",
   "lastOpenFiles": [
+    "给AI项目小组加SVN.md",
     "发票问题.md",
     "请确认附件过多。.md",
     "attachments/企业微信截图_17645816496227.png",
@@ -663,7 +665,6 @@
     "attachments/Pasted image 20251125175356.png",
     "attachments/Pasted image 20251125174854.png",
     "远程管理工具DLRemoteManager.md",
-    "给AI项目小组加SVN.md",
     "退票的status.md",
     "BSP账单无法读取.md",
     "钱包扣除.md",
