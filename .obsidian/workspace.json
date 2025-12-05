@@ -298,6 +298,18 @@
             }
           },
           {
+            "id": "93f76b7326eb1ca5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          },
+          {
             "id": "af082756c4e1e1ce",
             "type": "leaf",
             "state": {
@@ -466,7 +478,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -638,7 +650,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2237d04370427647",
+  "active": "93f76b7326eb1ca5",
   "lastOpenFiles": [
     "给AI项目小组加SVN.md",
     "发票问题.md",
