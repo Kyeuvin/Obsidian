@@ -301,12 +301,14 @@
             "id": "93f76b7326eb1ca5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "销售系统商品号出现XXXXXX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "销售系统商品号出现XXXXXX"
             }
           },
           {
@@ -510,7 +512,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ever",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -531,8 +533,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -652,12 +653,13 @@
   },
   "active": "93f76b7326eb1ca5",
   "lastOpenFiles": [
+    "添加新的ssr.md",
+    "国际退票行程单 未回收.md",
+    "请确认附件过多。.md",
     "给AI项目小组加SVN.md",
     "发票问题.md",
-    "请确认附件过多。.md",
     "attachments/企业微信截图_17645816496227.png",
     "加行程单库位.md",
-    "添加新的ssr.md",
     "销售系统商品号出现XXXXXX.md",
     "Dify服务坏了，且启动时报错5003端口被占用.md",
     "财务要求开一下行程单（权限）.md",
@@ -666,7 +668,6 @@
     "政采晚付款申请.md",
     "政府采购账户审核.md",
     "国内政采报价.md",
-    "国际退票行程单 未回收.md",
     "attachments/Pasted image 20251125175913.png",
     "attachments/Pasted image 20251125175810.png",
     "attachments/Pasted image 20251125175725.png",
